@@ -6,4 +6,4 @@
 - 💬 Ask me about Machine Learning Stuff.
 - 📫 How to reach me: ritik2209@gmail.com
 
--->[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=lorddashme)](https://github.com/ritik2209/github-contribution-stats/)
+-->[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=ritik2209)](https://github.com/ritik2209/github-contribution-stats/)

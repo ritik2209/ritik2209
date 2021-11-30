@@ -17,7 +17,7 @@
 
 <p align=center>
 <img height="25" src="https://badges.pufler.dev/visits/ritik2209/ritik2209?color=black&logo=github" />
-<img height="25" src="https://komarev.com/ghpvc/?username=ritik2209color=brightgreen" />
+<img height="25" src="https://komarev.com/ghpvc/?username=ritik2209&color=brightgreen" />
 <a href="https://github.com/ritik2209">
 </a>
 </p>

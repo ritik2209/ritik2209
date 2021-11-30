@@ -8,7 +8,8 @@
 
 ---
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=ritik2209)](https://github.com/ritik2209/github-contribution-stats/)
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=ritik2209)](https://github.com/LordDashMe/github-contribution-stats/)
+
 
 ---
 <p align="center">

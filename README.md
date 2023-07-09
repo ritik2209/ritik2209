@@ -1,9 +1,7 @@
 ### Hi there 👋 .This is Ritik Agarwal !
 
-- 🔭 I’m currently working on Machine Learning and Deep Learning
-- 👯 I’m looking to collaborate on Data Science Projects
-- 🤔 I’m looking for help with Open Source
-- 💬 Ask me about Machine Learning Stuff.
+- 🔭 I’m currently working as a Software Engineer at Simply Business UK
+- 👯 I’m looking to collaborate on Full Stack Data Science Projects
 - 📫 How to reach me: ritik2209@gmail.com
 
 ---
